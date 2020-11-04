@@ -1,0 +1,94 @@
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("https://media.istockphoto.com/photos/preschool-child-picture-id1010538272");
+    /*background-image: url(pexels-olia-danilevich-5088186.jpg);*/
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+body nav .navbar {
+    background-color: none;
+}
+
+.navbar-light .navbar-brand {
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.navbar .inlog-knop {
+    /*background-color: #4ff97a;*/
+    /*border-color: #4ff97a;*/
+}
+
+.intro-pakketten {
+    padding: 120px 0;
+}
+
+.info-boxes {
+    /*margin-top: 360px;*/
+}
+
+.info-boxes .content:hover {
+    cursor: pointer;
+    background-color: #efefef;
+}
+
+.info-boxes .fa {
+    font-size: 45px;
+}
+
+.info-boxes h3 {
+    margin-top: 20px;
+}
+
+.info-boxes .content {
+    background-color: white;
+    padding: 36px 20px;
+}
+
+.pakket-onderdelen {
+    padding: 100px 0px;
+    background: #eee;
+}
+
+.intro-studievaardigheden-begrijpend-lezen {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.intro-programmeren {
+    background-color: #4ff97a;
+    padding: 100px 0px;
+}
+
+.intro-programmeren h1 {
+    color: #fff;
+    margin-bottom: 30px;
+    font-weight: 900;
+}
+
+.intro-programmeren .bestel-knop {
+    color: black;
+    font-weight: bold;
+    background: #fff;
+    padding: 5px 25px;
+}
+
+.intro-blog {
+    padding: 100px 0;
+}
